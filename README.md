@@ -31,6 +31,10 @@ The dataset used in this project is the Global Electronics Retailers Sales Data,
 - __Customers__: 15,266 rows of customer data.
 
 
+## Data Structure
+Data Structure.png
+![Description of the image](Data Structure.png)
+
 ## Data Cleaning and Preparation
 - Removed unnecessary columns, including 'Subcategory Key', 'Category Key', 'Zip Code', etc., to focus on relevant data.
 - Eliminated duplicates to ensure data accuracy.

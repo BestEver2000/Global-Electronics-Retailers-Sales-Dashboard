@@ -38,7 +38,7 @@ The dataset used in this project is the Global Electronics Retailers Sales Data,
 - Corrected the date format in 'Order Date' and 'Delivery Date' columns.
 
 ## Formulas used
-
+Formulas.png
 
 
 

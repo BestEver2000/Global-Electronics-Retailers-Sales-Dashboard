@@ -32,7 +32,7 @@ The dataset used in this project is the Global Electronics Retailers Sales Data,
 
 
 ## Data Structure
-![Description of the image](DataStructure.png)
+![Description of the image](Data_Structure.png)
 
 ## Data Cleaning and Preparation
 - Removed unnecessary columns, including 'Subcategory Key', 'Category Key', 'Zip Code', etc., to focus on relevant data.

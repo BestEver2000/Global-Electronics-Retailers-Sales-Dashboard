@@ -25,10 +25,10 @@ __Power BI__: Data visualization and dashboard creation.
 ## Dataset
 The dataset used in this project is the Global Electronics Retailers Sales Data, sourced from Kaggle. It contains detailed information about sales, store operations, product details, and customer demographics. The data spans from 2016 to 2021, with only two months of data available for 2021. It consists of four CSV files:
 
-- __Sales__: 62,884 rows of transaction data.
-- __Stores__: 67 rows containing store details.
-- __Products__: 2,517 rows of product information.
-- __Customers__: 15,266 rows of customer data.
+- __Sales__: It contains 62,884 rows of data about order info such as date, order number, quantity.
+- __Stores__: The dataset includes information on 67 stores, detailing attributes such as location and store area.
+- __Products__: The dataset provides information on 2,517 unique products, including details such as price, brand, and category.
+- __Customers__: The dataset contains 15,266 rows of customer information, including details such as city, date of birth (DOB), gender, and other relevant attributes.
 
 
 ## Data Structure
@@ -44,8 +44,13 @@ The dataset used in this project is the Global Electronics Retailers Sales Data,
 
 ![Description of the image](Formulas.png)
 
+## Key Insights
 
-
+- Orders consistently peak in December, except for the year 2020, and consistently reach their lowest point in April.
+- Online sales account for approximately 20% of overall orders, showing significant growth from 16% in 2016 to 27% in 2021.
+- The United States contributes a massive 53.58% of revenue, overshadowing all other countries. 
+- Desktops contribute the highest revenue, significantly outpacing other subcategories. Televisions and projectors are secondary drivers, but their revenue  is less than half of desktops.
+- Older age groups (55-69 and 70+) dominate order percentages, accounting for ~30% of orders. The younger demographic (18-29) contributes the lowest share.
 
 ## How to use this dashboard
 

@@ -61,5 +61,4 @@ To view and interact with this dashboard, make sure you have Power BI Desktop in
 
 ## Conclusion
 In this Power BI dashboard project, I visualized sales performance data to create an interactive and user friendly dashboard. The data was initially cleaned and preprocessed using Excel, before importing it into Power BI. The dashboard highlights key sales metrics, including total revenue, revenue by brand, product performance, and customer segmentation.
-
 The interactive features, such as slicers for filtering provide users with the ability to explore specific segments and gain actionable insights. This dashboard empowers stakeholders to monitor sales trends, identify underperforming products, and make data driven decisions to optimize sales strategies.

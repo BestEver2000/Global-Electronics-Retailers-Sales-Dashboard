@@ -42,7 +42,7 @@ The dataset used in this project is the Global Electronics Retailers Sales Data,
 
 ## Formulas used
 
-![Description of the image]()
+![Description of the image](Formulas.png)
 
 ## Key Insights
 

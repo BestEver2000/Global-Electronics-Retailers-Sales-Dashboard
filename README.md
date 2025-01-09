@@ -2,7 +2,7 @@
 # Global Electronics Retailers Sales Dashboard
 
 ## Project Overview
-This project is a sales dashboard that provides insights into sales performance, orders trend, product performance, stores performance, etc. It was created using Power BI for visualization and Excel for data cleaning.
+This project is a sales performance dashboard that provides a detailed overview of a global electronics store's performance over a 5-year period. It offers key insights into overall revenue, order trends, yearly performance, product success, and store contributions. It includes year-over-year comparisons to monitor growth in revenue and orders to identify areas for improvement. The goal of this dashboard is to deliver actionable insights, enabling data-driven decisions to enhance overall performance and achieve business growth.. It was created using Power BI for visualization and Excel for data cleaning.
 
 ## Key Features
 
